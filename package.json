@@ -1,0 +1,42 @@
+{
+    "name"           : "devaloka-transient",
+    "version"        : "0.1.0",
+    "description"    : "Provides Site-contextual Transient API",
+    "keywords"       : [
+        "wordpress",
+        "plugin",
+        "multisite",
+        "network",
+        "transient"
+    ],
+    "homepage"       : "https://github.com/devaloka/devaloka-transient",
+    "bugs"           : {
+        "url": "https://github.com/devaloka/devaloka-transient/isssues"
+    },
+    "license"        : "(MIT OR GPL-2.0 OR GPL-3.0)",
+    "author"         : {
+        "name" : "Whizark",
+        "email": "devaloka@whizark.com",
+        "url"  : "http://whizark.com"
+    },
+    "files"          : [
+        "./MIT-LICENSE.txt",
+        "./GPL-LICENSE.txt",
+        "./devaloka-transient.php",
+        "./loader/*",
+        "./src/*"
+    ],
+    "main"           : "./devaloka-transient.php",
+    "repository"     : {
+        "type": "git",
+        "url" : "https://github.com/devaloka/devaloka-transient.git"
+    },
+    "scripts"        : {
+        "lint"       : "mdast -u mdast-lint README.md",
+        "lint-travis": "mdast -f -u mdast-lint README.md"
+    },
+    "devDependencies": {
+        "mdast"     : "~2.3.0",
+        "mdast-lint": "~1.1.1"
+    }
+}
