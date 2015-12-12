@@ -1,6 +1,6 @@
 <?php
 /*
-Transient Name: Devaloka Transient
+Plugin Name: Devaloka Transient
 Description: Provides Site-contextual Transient API
 Version: 0.1.0
 Author: Whizark
