@@ -2,7 +2,7 @@
     "name"             : "devaloka/devaloka-transient",
     "description"      : "Provides Site-contextual Transient API",
     "version"          : "0.1.0",
-    "type"             : "wordpress-muplugin",
+    "type"             : "devaloka-muplugin",
     "keywords"         : [
         "wordpress",
         "plugin",
@@ -32,9 +32,9 @@
         "source": "https://github.com/devaloka/devaloka-transient"
     },
     "require"          : {
-        "php"                : ">=5.5.9",
-        "composer/installers": "~1.0",
-        "devaloka/devaloka"  : "~0.5.0"
+        "php"                         : ">=5.5.9",
+        "devaloka/mu-plugin-installer": "~0.1.0",
+        "devaloka/devaloka"           : "~0.5.0"
     },
     "archive"          : {
         "exclude": [
@@ -45,5 +45,8 @@
             "npm-shrinkwrap.json",
             ".mdastrc"
         ]
+    },
+    "extra"            : {
+        "installer-loader": "loader/10-devaloka-transient-loader.php"
     }
 }
