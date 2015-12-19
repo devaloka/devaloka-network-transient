@@ -17,6 +17,3 @@ A WordPress Plugin that provides Site-contextual Transient API.
     ```sh
     composer require devaloka/devaloka-transient
     ```
-
-2.  Move `loader/10-devaloka-transient-loader.php` into
-    `<ABSPATH>wp-content/mu-plugins/`.
