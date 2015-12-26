@@ -2,7 +2,7 @@
 /*
 Plugin Name: Devaloka Transient
 Description: Provides Site-contextual Transient API
-Version: 0.1.0
+Version: 0.1.1
 Author: Whizark
 Author URI: http://whizark.com
 License: GPL-2.0+
