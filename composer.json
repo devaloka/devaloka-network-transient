@@ -1,7 +1,7 @@
 {
     "name"             : "devaloka/devaloka-transient",
     "description"      : "Provides Site-contextual Transient API",
-    "version"          : "0.1.1",
+    "version"          : "0.1.2",
     "type"             : "devaloka-muplugin",
     "keywords"         : [
         "wordpress",
