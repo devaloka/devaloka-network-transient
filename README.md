@@ -1,4 +1,4 @@
-# Devaloka Transient [![Build Status](https://travis-ci.org/devaloka/devaloka-transient.svg?branch=master)](https://travis-ci.org/devaloka/devaloka-transient) [![Packagist](https://img.shields.io/packagist/v/devaloka/devaloka-transient.svg)](https://packagist.org/packages/devaloka/devaloka-transient)
+# Devaloka Transient [![Build Status][travis-image]][travis-url] [![Packagist][packagist-image]][packagist-url]
 
 A WordPress Plugin that provides Site-contextual Transient API.
 
@@ -17,3 +17,9 @@ A WordPress Plugin that provides Site-contextual Transient API.
     ```sh
     composer require devaloka/devaloka-transient
     ```
+
+[travis-image]: https://travis-ci.org/devaloka/devaloka-transient.svg?branch=master
+[travis-url]: https://travis-ci.org/devaloka/devaloka-transient
+
+[packagist-image]: https://img.shields.io/packagist/v/devaloka/devaloka-transient.svg
+[packagist-url]: https://packagist.org/packages/devaloka/devaloka-transient
