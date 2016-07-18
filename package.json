@@ -1,5 +1,6 @@
 {
     "version"        : "0.1.2",
+    "main"           : "./devaloka-transient.php",
     "repository"     : {
         "type": "git",
         "url" : "https://github.com/devaloka/devaloka-transient.git"
