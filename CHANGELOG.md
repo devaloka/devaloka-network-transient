@@ -1,3 +1,11 @@
+<a name="0.2.0"></a>
+# [0.2.0](https://github.com/devaloka/devaloka-transient/compare/v0.1.2...v0.2.0) (2016-07-18)
+
+* update mu-plugin-installer to 0.2.0, update other dependencies ([e86ec74](https://github.com/devaloka/devaloka-transient/commit/e86ec74))
+* update devaloka/devaloka to 0.7.0 ([46fe8a2](https://github.com/devaloka/devaloka-transient/commit/46fe8a2))
+
+
+
 <a name="0.1.2"></a>
 ## [0.1.2](https://github.com/devaloka/devaloka-transient/compare/v0.1.1...v0.1.2) (2015-12-29)
 
